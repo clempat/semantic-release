@@ -1,3 +1,11 @@
+## [0.0.2](https://github.com/clempat/semantic-release/compare/v0.0.1...v0.0.2) (2019-08-12)
+
+
+### Bug Fixes
+
+* gitlab to github ([0a5e475](https://github.com/clempat/semantic-release/commit/0a5e475))
+* **ci:** add npm token secret ([faea47e](https://github.com/clempat/semantic-release/commit/faea47e))
+
 # [1.2.0](https://gitlab.com/quandoo-dev/ci-cd/semantic-release/compare/v1.1.1...v1.2.0) (2019-07-12)
 
 
