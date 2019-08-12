@@ -1,6 +1,6 @@
 {
   "name": "@clempat/semantic-release",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "semantic release configuration for my docker projects",
   "main": "index.js",
   "scripts": {
